@@ -1,4 +1,0 @@
-spring:
-  data:
-    mongodb:
-      uri: mongodb+srv://root:sh032418@cluster0.tsie7.mongodb.net/silverlining?retryWrites=true&w=majority
