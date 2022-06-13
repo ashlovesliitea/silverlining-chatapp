@@ -11,6 +11,7 @@
 ## 기술 스택
     1) Server 
         - Spring Webflux & Netty 
+        - AWS EC2 & Ubuntu
         - Docker
     2) Database 
         - MongoDB
@@ -18,8 +19,8 @@
         - HTML & CSS & JavaScript
 
 ## 실행 화면
-![image](https://user-images.githubusercontent.com/65891711/173405665-8fda6047-4845-4ec5-b06d-0dd5bb16c103.png)
+![image](https://user-images.githubusercontent.com/65891711/173414807-a176b8dc-8afa-4480-b695-f0972c248eb6.png)
 
 
-:point_down: 전체 프로젝트 관련 정보는 하단 Github 링크에서 확인
+:point_down: 전체 프로젝트 관련 정보는 하단 Github 링크에서 확인 <br>
 :arrow_right: [Silverlining Project link](https://github.com/ashlovesliitea/silverlining-BE)
