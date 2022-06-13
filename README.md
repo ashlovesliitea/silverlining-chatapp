@@ -1,4 +1,4 @@
-#Silverlining-Chatapp
+# :incoming_envelope: Silverlining-Chatapp
 
 - Silverlining 어플리케이션의 부속 기능인 유저간 채팅 기능을 개발한 프로젝트.
 - Non-blocking IO 방식으로 작동하는 Spring Webflux-Netty 기반 프로젝트로 구현하여,<br>
@@ -21,5 +21,5 @@
 ![image](https://user-images.githubusercontent.com/65891711/173405665-8fda6047-4845-4ec5-b06d-0dd5bb16c103.png)
 
 
-## 전체 프로젝트 관련 정보는 아래 Github 링크에서 확인
-[Silverlining Project link](https://github.com/ashlovesliitea/silverlining-BE).
+:point_down: 전체 프로젝트 관련 정보는 하단 Github 링크에서 확인
+:arrow_right: [Silverlining Project link](https://github.com/ashlovesliitea/silverlining-BE)
