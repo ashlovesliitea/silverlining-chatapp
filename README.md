@@ -22,5 +22,12 @@
 ![image](https://user-images.githubusercontent.com/65891711/173414807-a176b8dc-8afa-4480-b695-f0972c248eb6.png)
 
 
-:point_down: 전체 프로젝트 관련 정보는 하단 Github 링크에서 확인 <br>
+##어플리케이션 구조도
+![image](https://user-images.githubusercontent.com/65891711/174977913-b67d5e34-f462-4ebb-a0ee-e4599131588d.png)
+- applications.yml 설정 파일은 미포함되어있으며, 본인의 mongoDB 클러스터 주소를 입력해주시면 됩니다.
+- 서버단 코드는 src/main/java/com/example/chatapp 디렉토리에서 확인해 주세요.
+- 프론트엔드 뷰 코드는 src/main/resources/static 디렉토리에서 확인할 수 있습니다.
+
+
+### :point_down: 전체 프로젝트 관련 정보는 하단 Github 링크에서 확인 <br>
 :arrow_right: [Silverlining Project link](https://github.com/ashlovesliitea/silverlining-BE)
