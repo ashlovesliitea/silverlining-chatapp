@@ -22,7 +22,7 @@
 ![image](https://user-images.githubusercontent.com/65891711/173414807-a176b8dc-8afa-4480-b695-f0972c248eb6.png)
 
 
-##어플리케이션 구조도
+## 어플리케이션 구조도
 ![image](https://user-images.githubusercontent.com/65891711/174977913-b67d5e34-f462-4ebb-a0ee-e4599131588d.png)
 - applications.yml 설정 파일은 미포함되어있으며, 본인의 mongoDB 클러스터 주소를 입력해주시면 됩니다.
 - 서버단 코드는 src/main/java/com/example/chatapp 디렉토리에서 확인해 주세요.
